@@ -1,10 +1,10 @@
-# 👋 Hi! I'm Azra 🦫
+# 👋 Hi! I'm Azra 🚀
 
 ## 🌟 About Me
-- 🎓 I’m an Electrical and Electronics Engineering student
-- ⚡ Interested in power electronics and system design
+- 🎓 I am a 4th-year Electrical and Electronics Engineering student.
+- ⚡ Interested in power electronics and system design.
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFtOXBpejFpdjA1dGJubmU4ZmY2NG03dmYweTgxdnNkb2FpbGZrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkdnvLZIrKVxtSDG22/giphy.gif" width="400"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFtOXBpejFpdjA1dGJubmU4ZmY2NG03dmYweTgxdnNkb2FpbGZrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkdnvLZIrKVxtSDG22/giphy.gif" width="200"/>
 
 ---
 
