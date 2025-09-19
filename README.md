@@ -1,6 +1,6 @@
-# 👋 Hi! I'm Azra 🚀
+# 🧊 Hi! I'm Azra 🚀
 
-## 🌟 About Me
+## ❄️ About Me
 - 🎓 I am a 4th-year Electrical and Electronics Engineering student.
 - ⚡ Interested in power electronics and system design.
 
@@ -9,7 +9,7 @@
 </p>
 
 ---
-## Design Tools:
+## 📟 Design Tools:
 
 <img src="https://cpe.ifmo.ru/public/nodes/97/2a/67/35/altium_logo.png" width="40"/> <img src="https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" width="40"/> <img src="https://media.imgcdn.org/repo/2023/12/auto-desk-eagle/658ac0582fa7a-auto-desk-eagle-Icon.webp" width="40"/> <img src="https://pbs.twimg.com/profile_images/1618407247117430784/e_CppVMT_400x400.jpg" width="40"/>
 
