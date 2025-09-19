@@ -19,6 +19,6 @@
 ---
 
 <p align="center">
-  <img src="https://art.pixilart.com/sr21df2b5d71d4e.gif" width="300"/>
+  <img src="https://art.pixilart.com/sr21df2b5d71d4e.gif" width="200"/>
 </p>
 
