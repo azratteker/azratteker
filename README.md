@@ -17,7 +17,6 @@
 
 <p align="center">
   <img src="https://atindiacircuit.com/wp-content/uploads/2023/02/cercuitvi1.gif" width="400"/>
-
 </p>
 
 ---
