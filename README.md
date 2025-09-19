@@ -14,6 +14,6 @@
 ## 💻 Programming Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 
-<img src="https://raw.githubusercontent.com/azratteker/repoAdi/main/images/pcb.png" width="300"/>
+<img src="https://raw.githubusercontent.com/azratteker/azratteker/main/images/pcb.png" width="300"/>
 
 ---
