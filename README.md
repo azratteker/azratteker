@@ -9,7 +9,7 @@
 ---
 ## Design Tools:
 
-<img src="https://cpe.ifmo.ru/public/nodes/97/2a/67/35/altium_logo.png" width="40"/> <img src="https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" width="40"/> <img src="https://media.imgcdn.org/repo/2023/12/auto-desk-eagle/658ac0582fa7a-auto-desk-eagle-Icon.webp" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/1280px-KiCad-Logo.svg.png" width="40"/>
+<img src="https://cpe.ifmo.ru/public/nodes/97/2a/67/35/altium_logo.png" width="40"/> <img src="https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" width="40"/> <img src="https://media.imgcdn.org/repo/2023/12/auto-desk-eagle/658ac0582fa7a-auto-desk-eagle-Icon.webp" width="40"/> <img src="https://pbs.twimg.com/profile_images/1618407247117430784/e_CppVMT_400x400.jpg" width="40"/>
 
 ## 💻 Programming Languages
 
