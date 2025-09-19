@@ -13,11 +13,12 @@
 
 ## 💻 Programming Languages
 ## Languages:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 
-![Arduino](https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg){:height="20px"}
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg){:height="20px"}
-![MATLAB](https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg){:height="20px"}
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg){:height="20px"}
 
 
 <img src="https://raw.githubusercontent.com/azratteker/azratteker/main/images/pcb.png" width="300"/>
