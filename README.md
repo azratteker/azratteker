@@ -4,7 +4,6 @@
 - 🎓 I am a 4th-year Electrical and Electronics Engineering student.
 - ⚡ Interested in power electronics and system design.
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFtOXBpejFpdjA1dGJubmU4ZmY2NG03dmYweTgxdnNkb2FpbGZrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkdnvLZIrKVxtSDG22/giphy.gif" width="200"/>
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFtOXBpejFpdjA1dGJubmU4ZmY2NG03dmYweTgxdnNkb2FpbGZrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkdnvLZIrKVxtSDG22/giphy.gif" width="200"/>
 </p>
@@ -18,7 +17,7 @@
 
 <img src="https://devicon-website.vercel.app/api/c/original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/> 
 
-<img src="https://atindiacircuit.com/wp-content/uploads/2023/02/cercuitvi1.gif" width="400"/>
-
-
+<p align="center">
+  <img src="https://atindiacircuit.com/wp-content/uploads/2023/02/cercuitvi1.gif" width="200"/>
+</p>
 ---
