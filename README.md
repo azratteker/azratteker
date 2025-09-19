@@ -18,6 +18,6 @@
 <img src="https://devicon-website.vercel.app/api/c/original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/> 
 
 <p align="center">
-  <img src="https://atindiacircuit.com/wp-content/uploads/2023/02/cercuitvi1.gif" width="200"/>
+  <img src="https://art.pixilart.com/sr21df2b5d71d4e.gif" width="300"/>
 </p>
 ---
