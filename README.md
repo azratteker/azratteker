@@ -12,7 +12,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/altium/altium-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansys/ansys-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ltspice/ltspice-original.svg" width="40"/>
 
 ## 💻 Programming Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+## Languages:
+
+![Arduino](https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg){:height="40px"}
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg){:height="40px"}
+![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg){:height="40px"}
+![MATLAB](https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg){:height="40px"}
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg){:height="40px"}
+
 
 <img src="https://raw.githubusercontent.com/azratteker/azratteker/main/images/pcb.png" width="300"/>
 
