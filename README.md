@@ -9,11 +9,11 @@
 ---
 ## Design Tools:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/altium/altium-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansys/ansys-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ltspice/ltspice-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Altium_Designer_logo.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/EasyEDA_Logo.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Eagle_logo.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/KiCad_logo.svg" width="40"/>
 
 ## 💻 Programming Languages
-## Languages:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/> <img src="https://devicon-website.vercel.app/api/c/original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+
+<img src="https://devicon-website.vercel.app/api/c/original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/> 
 
 
 ---
