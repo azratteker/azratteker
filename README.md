@@ -5,8 +5,8 @@
 - ⚡ Interested in power electronics and system design.
 - <a href="https://www.linkedin.com/in/azrateker">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/> 
-  Click to view!
-</a>
+   My LinkedIn Profile
+  </a>
 
 <p align="center">
   <img src="https://art.pixilart.com/sr292bb1d1a89aws3.png" width="200"/>
