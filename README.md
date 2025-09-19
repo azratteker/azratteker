@@ -3,9 +3,10 @@
 ## ❄️ About Me
 - 🎓 I am a 4th-year Electrical and Electronics Engineering student.
 - ⚡ Interested in power electronics and system design.
-- 🕹️ <a href="https://www.linkedin.com/in/azrateker">
-  < "Click to view my LinkedIn profile" width="30" height="20"/> 
-  </a>
+- 🕹️ <a href="https://www.linkedin.com/in/azrateker" target="_blank">
+  Click to view my LinkedIn profile
+</a>
+
 
 <p align="center">
   <img src="https://art.pixilart.com/sr292bb1d1a89aws3.png" width="200"/>
