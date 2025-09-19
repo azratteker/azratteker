@@ -9,7 +9,7 @@
 ---
 ## Design Tools:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Altium_Designer_logo.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/EasyEDA_Logo.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Eagle_logo.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/KiCad_logo.svg" width="40"/>
+<img src="https://cpe.ifmo.ru/public/nodes/97/2a/67/35/altium_logo.png" width="40"/> <img src="https://easyeda.com/images/easyeda-thumbnail.png?id=d5ed1fe5930602975df1" width="40"/> <img src="https://media.imgcdn.org/repo/2023/12/auto-desk-eagle/658ac0582fa7a-auto-desk-eagle-Icon.webp" width="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWrfThpSRvrPehswlKiu4jd01LVXTAbXhR4w&s" width="40"/>
 
 ## 💻 Programming Languages
 
